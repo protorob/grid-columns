@@ -17,7 +17,7 @@ Many theme developers add several column shortcodes to their themes (note: this 
 
 This plugin allows you to switch between any theme (no lock-in to your current theme).  It was also developed with WordPress standards and usability in mind.
 
-## Uage
+## Usage
 
 You can find more detailed instructions in the plugin's `docs/readme.html` file.
 
